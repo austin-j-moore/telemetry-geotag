@@ -1,0 +1,1 @@
+ffmpeg -i /Volumes/4TB\ SSD/Videos/Drone-12.12.24/DJI_0499.MP4 -vf fps=1 -qscale:v 2 /Volumes/4TB\ SSD/Drone/12.12.24/frames/DJI_0499-%04d.jpeg
